@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 function make_symlink {
 	echo "Linking \"$1\""
