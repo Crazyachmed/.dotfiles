@@ -1,0 +1,9 @@
+shell -${SHELL}
+caption always " %n%f %t | %h"
+hardstatus alwayslastline " %H | %d-%m-%Y %c | %l | %w" 
+defscrollback 1024
+startup_message off
+term "xterm"
+chdir /home/xgadogb
+echo -n "\033]0;screen $PID\007"
+defmonitor on
