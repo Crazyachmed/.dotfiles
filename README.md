@@ -1,1 +1,1 @@
-git clone https://github.com/crazyachmed/dotfiles
+git clone https://github.com/crazyachmed/.dotfiles
