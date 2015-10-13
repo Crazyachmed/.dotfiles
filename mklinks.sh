@@ -18,3 +18,6 @@ echo "Source is \"$DIR\", destination is \"$HOME\"."
 
 make_symlink ".screenrc"
 make_symlink ".yaourtrc"
+make_symlink ".profile"
+make_symlink ".bashrc"
+make_symlink ".vimrc"
