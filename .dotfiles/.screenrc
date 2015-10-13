@@ -1,6 +1,7 @@
 caption always " %n%f %t | %h"
 hardstatus alwayslastline " %H | %d-%m-%Y %c | %l | %-w[%n %t]%+w"
 
+shell -${SHELL}
 startup_message	off
 msgwait		3
 defmonitor	on
