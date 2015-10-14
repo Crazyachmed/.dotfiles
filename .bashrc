@@ -1,7 +1,3 @@
-#
-# /etc/bash.bashrc
-#
-
 complete -cf sudo
 
 shopt -s cdspell
