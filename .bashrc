@@ -59,3 +59,8 @@ man() {
     LESS_TERMCAP_us=$'\E[04;38;5;146m' \
     man "$@"
 }
+
+if [ -f "$HOME/.customrc" ]; then
+    source "$HOME/.customrc"
+fi
+
