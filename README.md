@@ -1,3 +1,3 @@
-git clone https://github.com/crazyachmed/.dotfiles
+git clone https://github.com/crazyachmed/.dotfiles.git
 
-git clone git@github.com/crazyachmed/.dotfiles
+git clone git://github.com/crazyachmed/.dotfiles.git
