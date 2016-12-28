@@ -13,3 +13,7 @@ set hlsearch            " highlight matches
 
 " turn off search highlight with space
 nnoremap <leader><space> :nohlsearch<CR>
+
+if &diff
+  syntax off
+endif
